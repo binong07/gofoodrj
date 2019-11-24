@@ -1,11 +1,11 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("white"," ====================================\n");
+echo color("white","=========================================\n");
 echo color("green","| Auto regis Gojecc + Redeem voucher	|\n");
 echo color("green","| PPMRJ x GOFOOD			|\n");
 echo color("green","| Recoded with Love By. Ice Bear	|\n");
-echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
+echo "| Time    :".date('[d-m-Y] [H:i:s]')."		|\n";
 echo " ===========================\n";
 
 // function change(){
